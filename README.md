@@ -23,12 +23,12 @@ My leadership philosophy centers on **building intelligent systems that solve re
 
 | **Metric** | **Impact** | **Domain** |
 |:-----------|:-----------|:-----------|
-| **Production Models Deployed** | 15+ enterprise-grade systems | Credit Risk, RAG, Computer Vision, Forecasting |
+| **Production Models Deployed** | Enterprise-grade systems | Credit Risk, RAG, Computer Vision, Forecasting |
 | **Data Volume Processed** | 100K+ scoring records, 60K+ images | Financial Services, Agriculture |
 | **Model Accuracy Improvements** | 96% OCR accuracy, 90%+ disease detection | Healthcare, AgTech |
 | **Forecasting Enhancement** | 18% improvement in yield prediction | Supply Chain & Operations |
-| **Cost Optimization** | Automated workflows reducing manual effort by 40%+ | Cross-functional |
-| **Technology Stack Leadership** | 20+ frameworks & platforms | AWS, Azure, LLMs, MLOps |
+| **Cost Optimization** | Automated workflows reducing manual effort | Cross-functional |
+| **Technology Stack Leadership** | 56+ technologies | AWS, Azure, LLMs, MLOps |
 
 </div>
 
@@ -117,7 +117,7 @@ timeline
 
 **Agentic AI Workflow Automation**
 - Engineered **multi-agent systems** using Amazon Bedrock, LangChain, and AutoGen to automate compliance document classification and policy validation
-- Reduced manual compliance review time by **40%+** while maintaining regulatory standards
+- Automated compliance review workflows while maintaining regulatory standards
 - Implemented **LLM guardrails and validation workflows** preventing unsafe outputs in enterprise GenAI applications
 
 **MLOps & Production Excellence**
@@ -133,7 +133,7 @@ timeline
 
 **Computer Vision for Agricultural Operations**
 - Developed **Keras OCR + OpenCV solution** extracting donor IDs, batch codes, and expiry dates from **60,000+ artificial insemination tube images**
-- Achieved **96% extraction accuracy**, eliminating manual data entry and reducing operational costs by 35%
+- Achieved **96% extraction accuracy**, significantly reducing manual data entry
 - Enabled real-time inventory tracking and compliance documentation for veterinary teams
 
 **Deep Learning Disease Detection System**
@@ -175,7 +175,7 @@ timeline
 
 **Operational Excellence**
 - Automated **recurring reporting workflows** using Python and Advanced Excel, streamlining monthly deliverables
-- Improved reporting consistency across client engagements, reducing manual effort by 30%
+- Improved reporting consistency across client engagements, reducing manual effort
 - Provided data-driven insights supporting C-level strategic planning and investment decisions
 
 **Business Impact**: Enabled data-driven decision-making for clients across multiple industries, improving forecast accuracy and strategic positioning.
@@ -235,7 +235,7 @@ timeline
 - Deployed **LLM guardrails** preventing unsafe and non-grounded outputs
 
 **Business Impact**:
-- Reduced compliance document review time by **40%+**
+- Automated compliance document review workflows
 - Improved answer accuracy and groundedness through multi-stage retrieval
 - Established reusable GenAI infrastructure serving multiple business units
 - Maintained regulatory compliance through robust validation workflows
@@ -257,7 +257,7 @@ timeline
 **Business Impact**:
 - **Improved AUC metrics** over baseline models, enhancing risk assessment accuracy
 - Reduced model deployment time through automated MLOps workflows
-- Enabled real-time scoring with sub-second latency at scale
+- Deployed scoring as scalable inference services
 - Maintained model performance through continuous monitoring and drift detection
 
 **Technologies**: XGBoost, LightGBM, Python, Amazon SageMaker, MLflow, Evidently AI, Docker, Kubernetes
@@ -297,7 +297,7 @@ timeline
 
 **Business Impact**:
 - Achieved **96% extraction accuracy** across 60,000+ images
-- Reduced operational costs by **35%** through automation
+- Reduced manual data entry through automation
 - Enabled real-time inventory tracking and compliance documentation
 - Improved data quality and eliminated manual transcription errors
 
