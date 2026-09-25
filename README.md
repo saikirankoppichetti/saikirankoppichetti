@@ -2,6 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,50:283593,100:1565c0&height=280&section=header&text=Sai%20Kiran%20Koppichetti&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineering%20Leader%20|%20Strategic%20Technologist&descAlignY=52&descSize=20)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-saikirankoppichetti.com-B45309?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saikirankoppichetti.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Strategic_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikirankoppichetti97/)
 [![Email](https://img.shields.io/badge/Email-Executive_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koppichettisaikiran97@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Technical_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikirankoppichetti)
